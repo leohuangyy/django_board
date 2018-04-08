@@ -1,0 +1,9 @@
+__pychare__/
+*.py[cod]
+.env
+venv/
+
+
+# SQLite databases files
+
+*.sqlite3
